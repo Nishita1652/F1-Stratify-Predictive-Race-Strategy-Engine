@@ -6,7 +6,6 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6%2B-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![FastF1](https://img.shields.io/badge/FastF1-Telemetry%20API-red?style=for-the-badge&logo=formula1&logoColor=white)](https://github.com/theOehrly/Fast-F1)
 [![Accuracy](https://img.shields.io/badge/Test%20Accuracy-78.21%25-brightgreen?style=for-the-badge)](outputs/confusion_matrix.png)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ---
 
@@ -14,15 +13,14 @@
 
 - [Executive Overview](#-executive-overview)
 - [Motorsport Domain Problem](#-motorsport-domain-problem)
-- [Key Features & Architecture](#-key-features--architecture)
 - [Input Features & Strategy Engineering](#-input-features--strategy-engineering)
 - [Benchmark Results](#-benchmark-results)
+- [Visual Strategy Artifacts](#-visual-strategy-artifacts)
 - [Explainability & Strategy Tree](#-explainability--strategy-tree)
 - [Project Structure](#-project-structure)
-- [Quick Start & Final Run Command](#-quick-start--final-run-command)
+- [How to Run](#-how-to-run)
 - [Python API Usage](#-python-api-usage)
 - [Tech Stack](#-tech-stack)
-- [License & Disclaimer](#-license--disclaimer)
 
 ---
 
@@ -40,33 +38,13 @@ In Formula 1 Grand Prix racing, the **starting tyre compound selection** is one 
 
 ## 🤖 Motorsport Domain Problem
 
-```
-                        ┌───────────────────────────────┐
-                        │   RACE MORNING CONDITIONS     │
-                        │ Track & Air Temps, Grid, Team │
-                        └──────────────┬────────────────┘
-                                       │
-                         [ Domain Feature Engineering ]
-                                       │
-                        ┌──────────────▼────────────────┐
-                        │     F1-STRATIFY ENGINE        │
-                        │    (Random Forest / DT)       │
-                        └──────────────┬────────────────┘
-                                       │
-            ┌──────────────────────────┼──────────────────────────┐
-            ▼                          ▼                          ▼
-   🔴 Soft Compound (0)       🟡 Medium Compound (1)     ⚪ Hard Compound (2)
-   - Aggressive sprint        - Conservative balanced     - Extreme long-stint
-   - High initial grip        - Long first stint window   - Traffic offset gamble
-```
-
 | Dimension | Specification |
 |:---|:---|
 | **Domain** | Motorsport Predictive Analytics & Race Strategy |
 | **Task Type** | Multi-Class Supervised Classification |
 | **Target Classes** | `0: Soft` (Red) · `1: Medium` (Yellow) · `2: Hard` (White) |
 | **Primary Algorithm** | Random Forest Classifier (`n_estimators=300`, `max_depth=10`) + Decision Tree Explainability |
-| **Primary Metric** | Multi-Class Accuracy & Stratified 5-Fold Cross-Validation |
+| **Validation Scheme** | Stratified 5-Fold Cross-Validation |
 
 ---
 
@@ -133,7 +111,7 @@ Track temperature metrics and grid position variables account for **~85% of tota
 
 ## 🌲 Explainability & Strategy Tree
 
-Black-box models are unacceptable on the pit wall where race engineers must justify every call to the Team Principal. **F1-Stratify** exports explainable decision boundaries:
+Black-box models are impractical on the pit wall where race engineers must justify every call to the Team Principal. **F1-Stratify** exports explainable decision boundaries:
 
 ```python
 # Strategic decision logic extracted from learned tree boundaries:
@@ -169,9 +147,8 @@ F1Start-AI/
 │   └── evaluate.py             # Evaluation metrics, high-contrast plots & tree visualisations
 │
 ├── data/
-│   ├── raw/
-│   │   └── f1_real_data.csv    # Real race dataset (777 driver race records)
-│   └── fastf1_cache/           # Local cache for FastF1 telemetry sessions
+│   └── raw/
+│       └── f1_real_data.csv    # Real race dataset (777 driver race records)
 │
 └── outputs/
     ├── confusion_matrix.png    # Heatmap of actual vs predicted compounds
@@ -183,96 +160,32 @@ F1Start-AI/
 
 ---
 
-## 🚀 Quick Start & Final Run Command
+## 🚀 How to Run
 
-### 1. Clone & Set Up Environment
-
-```bash
-git clone https://github.com/<your-username>/F1Start-AI.git
-cd F1Start-AI
-```
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. ⭐ Final Command to Run the Complete Pipeline
+### 2. Run the Full Pipeline
 
-To execute the entire engine (auto-detects real dataset, performs feature engineering, trains the model, saves all plots to `outputs/`, and executes 5 real-time race scenario predictions):
+Execute the complete strategy engine (auto-detects dataset, engineers features, trains model, exports plots to `outputs/`, and evaluates live race scenarios):
 
 ```bash
 python3 main.py
 ```
 
-> **⚡ Faster Run (Skip GridSearchCV):**
-> If you want to skip hyperparameter search and run with the optimal pre-configured parameters in under 2 seconds:
+> **⚡ Fast Execution (Skip Hyperparameter Search):**
 > ```bash
 > python3 main.py --no-tune
 > ```
 
 ---
 
-### 🖥️ Expected Terminal Output
-
-```text
- ███████╗ ██╗     ███████╗████████╗ █████╗ ██████╗ ████████╗      █████╗ ██╗
- ██╔════╝███║     ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝     ██╔══██╗██║
- █████╗  ╚██║     ███████╗   ██║   ███████║██████╔╝   ██║   █████╗███████║██║
- ██╔══╝   ██║     ╚════██║   ██║   ██╔══██║██╔══██╗   ██║   ╚════╝██╔══██║██║
- ██║      ██║     ███████║   ██║   ██║  ██║██║  ██║   ██║         ██║  ██║██║
- ╚═╝      ╚═╝     ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝         ╚═╝  ╚═╝╚═╝
-           Predictive Modeling for F1 Initial Race Strategy
-
-[DataLoader] Auto-detected real dataset at 'data/raw/f1_real_data.csv' …
-[DataLoader] Loaded 777 rows
-[DataLoader] After preprocessing: 777 rows
-[Model] Train: 621 samples | Test: 156 samples
-[Model] 5-Fold CV Accuracy: 0.7246 ± 0.0185
-==================================================
-  TEST ACCURACY : 78.21%
-==================================================
-
-[Evaluate] Confusion matrix saved → 'outputs/confusion_matrix.png'
-[Evaluate] Feature importance saved → 'outputs/feature_importance.png'
-[Evaluate] Sample tree saved → 'outputs/decision_tree.png'
-[Evaluate] Class distribution saved → 'outputs/class_distribution.png'
-[Model] Saved to 'outputs/randomForest_model.pkl'
-
-────────────────────────────────────────────────────────────
-  DEMO: Single-Race Strategy Predictions
-────────────────────────────────────────────────────────────
-
-  Verstappen – P1, hot Bahrain
-    → Predicted Compound : Soft    (confidence 53.5%)
-    → Probabilities      : {'Soft': '53.5%', 'Medium': '45.8%', 'Hard': '0.6%'}
-
-  Leclerc – P3, cool Monza
-    → Predicted Compound : Medium  (confidence 54.4%)
-    → Probabilities      : {'Soft': '45.5%', 'Medium': '54.4%', 'Hard': '0.1%'}
-
-  Hamilton – P6, warm Silverstone
-    → Predicted Compound : Soft    (confidence 68.8%)
-    → Probabilities      : {'Soft': '68.8%', 'Medium': '31.0%', 'Hard': '0.2%'}
-
-  Back-marker – P18, hot track
-    → Predicted Compound : Medium  (confidence 64.3%)
-    → Probabilities      : {'Soft': '34.2%', 'Medium': '64.3%', 'Hard': '1.5%'}
-
-  Midfield – P12, mild conditions
-    → Predicted Compound : Medium  (confidence 44.8%)
-    → Probabilities      : {'Soft': '18.6%', 'Medium': '44.8%', 'Hard': '36.6%'}
-
-────────────────────────────────────────────────────────────
-[Main] Pipeline complete. Final test accuracy: 78.21%
-```
-
----
-
 ## 💻 Python API Usage
 
-You can also use the trained model directly in your own scripts:
+You can also load the trained model artifact directly in Python scripts:
 
 ```python
 from src.model import load_model, predict_single
@@ -309,12 +222,8 @@ print(recommendation)
 | **scikit-learn** | Random Forest, Decision Tree, GridSearchCV, Stratified Cross-Validation |
 | **FastF1** | Formula 1 official live timing and telemetry data collection |
 | **pandas & numpy** | Telemetry ingestion, feature engineering, and matrix operations |
-| **matplotlib & seaborn** | Publication-quality dark-mode visual artifacts |
+| **matplotlib & seaborn** | Publication-quality visual artifacts |
 
 ---
-
-## 📄 License & Disclaimer
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 *Disclaimer: This project is an independent predictive modeling analysis and is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Formula 1, the FIA, or Formula One Licensing B.V.*
