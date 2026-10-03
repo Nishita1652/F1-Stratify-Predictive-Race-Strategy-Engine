@@ -1,0 +1,778 @@
+Year,Round,EventName,Driver,Team,GridPosition,TrackTemp,AirTemp,RainProbability,StartingCompound,CompoundName
+2018,12,Hungarian Grand Prix,LEC,Sauber,17,51.0,33.8,0,0,SOFT
+2018,13,Belgian Grand Prix,LEC,Sauber,12,27.2,17.3,0,0,SOFT
+2018,13,Belgian Grand Prix,ALO,McLaren,15,27.2,17.3,0,0,SOFT
+2018,13,Belgian Grand Prix,HUL,Renault,20,27.2,17.3,0,0,SOFT
+2018,18,United States Grand Prix,VER,Red Bull Racing,18,31.1,22.2,0,0,SOFT
+2018,18,United States Grand Prix,ERI,Sauber,16,31.1,22.2,0,0,SOFT
+2018,20,Brazilian Grand Prix,RAI,Ferrari,4,40.2,24.3,0,0,SOFT
+2018,20,Brazilian Grand Prix,VET,Ferrari,2,40.2,24.3,0,0,SOFT
+2018,20,Brazilian Grand Prix,MAG,Haas F1 Team,10,40.2,24.3,0,0,SOFT
+2018,20,Brazilian Grand Prix,HAR,Toro Rosso,16,40.2,24.3,0,1,MEDIUM
+2018,20,Brazilian Grand Prix,SAI,Renault,15,40.2,24.3,0,0,SOFT
+2018,20,Brazilian Grand Prix,VAN,McLaren,20,40.2,24.3,0,0,SOFT
+2018,20,Brazilian Grand Prix,OCO,Racing Point,18,40.2,24.3,0,0,SOFT
+2018,20,Brazilian Grand Prix,SIR,Williams,14,40.2,24.3,0,0,SOFT
+2018,20,Brazilian Grand Prix,ALO,McLaren,17,40.2,24.3,0,0,SOFT
+2018,20,Brazilian Grand Prix,STR,Williams,19,40.2,24.3,0,0,SOFT
+2018,20,Brazilian Grand Prix,HUL,Renault,13,40.2,24.3,0,0,SOFT
+2019,1,Australian Grand Prix,GAS,Red Bull Racing,17,41.5,23.4,0,1,MEDIUM
+2019,1,Australian Grand Prix,PER,Racing Point,10,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,LEC,Ferrari,5,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,STR,Racing Point,16,41.5,23.4,0,1,MEDIUM
+2019,1,Australian Grand Prix,MAG,Haas F1 Team,7,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,ALB,Toro Rosso,13,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,KVY,Toro Rosso,15,41.5,23.4,0,1,MEDIUM
+2019,1,Australian Grand Prix,HUL,Renault,11,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,RIC,Renault,12,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,VER,Red Bull Racing,4,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,NOR,McLaren,8,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,HAM,Mercedes,1,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,VET,Ferrari,3,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,SAI,McLaren,18,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,RUS,Williams,19,41.5,23.4,0,1,MEDIUM
+2019,1,Australian Grand Prix,RAI,Alfa Romeo Racing,9,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,BOT,Mercedes,2,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,GRO,Haas F1 Team,6,41.5,23.4,0,0,SOFT
+2019,1,Australian Grand Prix,KUB,Williams,20,41.5,23.4,0,2,HARD
+2019,1,Australian Grand Prix,GIO,Alfa Romeo Racing,14,41.5,23.4,0,1,MEDIUM
+2019,2,Bahrain Grand Prix,GAS,Red Bull Racing,13,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,PER,Racing Point,14,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,LEC,Ferrari,1,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,STR,Racing Point,18,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,MAG,Haas F1 Team,6,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,ALB,Toro Rosso,12,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,KVY,Toro Rosso,15,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,HUL,Renault,17,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,RIC,Renault,10,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,VER,Red Bull Racing,5,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,NOR,McLaren,9,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,HAM,Mercedes,3,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,VET,Ferrari,2,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,SAI,McLaren,7,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,RUS,Williams,19,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,RAI,Alfa Romeo Racing,8,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,BOT,Mercedes,4,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,GRO,Haas F1 Team,11,28.8,26.2,0,0,SOFT
+2019,2,Bahrain Grand Prix,KUB,Williams,20,28.8,26.2,0,1,MEDIUM
+2019,2,Bahrain Grand Prix,GIO,Alfa Romeo Racing,16,28.8,26.2,0,0,SOFT
+2019,3,Chinese Grand Prix,HAM,Mercedes,2,27.0,19.4,0,1,MEDIUM
+2019,3,Chinese Grand Prix,BOT,Mercedes,1,27.0,19.4,0,1,MEDIUM
+2019,3,Chinese Grand Prix,VET,Ferrari,3,27.0,19.4,0,1,MEDIUM
+2019,3,Chinese Grand Prix,VER,Red Bull Racing,5,27.0,19.4,0,1,MEDIUM
+2019,3,Chinese Grand Prix,LEC,Ferrari,4,27.0,19.4,0,1,MEDIUM
+2019,3,Chinese Grand Prix,GAS,Red Bull Racing,6,27.0,19.4,0,0,SOFT
+2019,3,Chinese Grand Prix,RIC,Renault,7,27.0,19.4,0,0,SOFT
+2019,3,Chinese Grand Prix,PER,Racing Point,12,27.0,19.4,0,1,MEDIUM
+2019,3,Chinese Grand Prix,RAI,Alfa Romeo Racing,13,27.0,19.4,0,1,MEDIUM
+2019,3,Chinese Grand Prix,ALB,Toro Rosso,1,27.0,19.4,0,0,SOFT
+2019,3,Chinese Grand Prix,GRO,Haas F1 Team,10,27.0,19.4,0,0,SOFT
+2019,3,Chinese Grand Prix,STR,Racing Point,16,27.0,19.4,0,1,MEDIUM
+2019,3,Chinese Grand Prix,MAG,Haas F1 Team,9,27.0,19.4,0,0,SOFT
+2019,3,Chinese Grand Prix,SAI,McLaren,14,27.0,19.4,0,1,MEDIUM
+2019,3,Chinese Grand Prix,GIO,Alfa Romeo Racing,19,27.0,19.4,0,0,SOFT
+2019,3,Chinese Grand Prix,RUS,Williams,17,27.0,19.4,0,1,MEDIUM
+2019,3,Chinese Grand Prix,KUB,Williams,18,27.0,19.4,0,1,MEDIUM
+2019,3,Chinese Grand Prix,NOR,McLaren,15,27.0,19.4,0,1,MEDIUM
+2019,3,Chinese Grand Prix,KVY,Toro Rosso,11,27.0,19.4,0,1,MEDIUM
+2019,3,Chinese Grand Prix,HUL,Renault,8,27.0,19.4,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,GAS,Red Bull Racing,1,39.8,19.6,0,1,MEDIUM
+2019,4,Azerbaijan Grand Prix,PER,Racing Point,5,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,LEC,Ferrari,8,39.8,19.6,0,1,MEDIUM
+2019,4,Azerbaijan Grand Prix,STR,Racing Point,13,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,MAG,Haas F1 Team,12,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,ALB,Toro Rosso,11,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,KVY,Toro Rosso,6,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,HUL,Renault,15,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,RIC,Renault,10,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,VER,Red Bull Racing,4,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,NOR,McLaren,7,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,HAM,Mercedes,2,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,VET,Ferrari,3,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,SAI,McLaren,9,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,RUS,Williams,16,39.8,19.6,0,1,MEDIUM
+2019,4,Azerbaijan Grand Prix,RAI,Alfa Romeo Racing,1,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,BOT,Mercedes,1,39.8,19.6,0,0,SOFT
+2019,4,Azerbaijan Grand Prix,GRO,Haas F1 Team,14,39.8,19.6,0,1,MEDIUM
+2019,4,Azerbaijan Grand Prix,KUB,Williams,1,39.8,19.6,0,1,MEDIUM
+2019,4,Azerbaijan Grand Prix,GIO,Alfa Romeo Racing,17,39.8,19.6,0,0,SOFT
+2019,5,Spanish Grand Prix,GAS,Red Bull Racing,6,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,PER,Racing Point,15,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,LEC,Ferrari,5,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,STR,Racing Point,16,40.7,20.1,0,1,MEDIUM
+2019,5,Spanish Grand Prix,MAG,Haas F1 Team,8,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,ALB,Toro Rosso,11,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,KVY,Toro Rosso,9,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,HUL,Renault,1,40.7,20.1,0,1,MEDIUM
+2019,5,Spanish Grand Prix,RIC,Renault,13,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,VER,Red Bull Racing,4,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,NOR,McLaren,10,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,HAM,Mercedes,2,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,VET,Ferrari,3,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,SAI,McLaren,12,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,RUS,Williams,19,40.7,20.1,0,1,MEDIUM
+2019,5,Spanish Grand Prix,RAI,Alfa Romeo Racing,14,40.7,20.1,0,1,MEDIUM
+2019,5,Spanish Grand Prix,BOT,Mercedes,1,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,GRO,Haas F1 Team,7,40.7,20.1,0,0,SOFT
+2019,5,Spanish Grand Prix,KUB,Williams,17,40.7,20.1,0,1,MEDIUM
+2019,5,Spanish Grand Prix,GIO,Alfa Romeo Racing,18,40.7,20.1,0,0,SOFT
+2019,7,Canadian Grand Prix,GAS,Red Bull Racing,5,51.2,29.6,0,0,SOFT
+2019,7,Canadian Grand Prix,PER,Racing Point,15,51.2,29.6,0,1,MEDIUM
+2019,7,Canadian Grand Prix,LEC,Ferrari,3,51.2,29.6,0,1,MEDIUM
+2019,7,Canadian Grand Prix,STR,Racing Point,17,51.2,29.6,0,2,HARD
+2019,7,Canadian Grand Prix,MAG,Haas F1 Team,1,51.2,29.6,0,2,HARD
+2019,7,Canadian Grand Prix,ALB,Toro Rosso,13,51.2,29.6,0,1,MEDIUM
+2019,7,Canadian Grand Prix,KVY,Toro Rosso,10,51.2,29.6,0,1,MEDIUM
+2019,7,Canadian Grand Prix,HUL,Renault,7,51.2,29.6,0,0,SOFT
+2019,7,Canadian Grand Prix,RIC,Renault,4,51.2,29.6,0,0,SOFT
+2019,7,Canadian Grand Prix,VER,Red Bull Racing,9,51.2,29.6,0,2,HARD
+2019,7,Canadian Grand Prix,NOR,McLaren,8,51.2,29.6,0,0,SOFT
+2019,7,Canadian Grand Prix,HAM,Mercedes,2,51.2,29.6,0,1,MEDIUM
+2019,7,Canadian Grand Prix,VET,Ferrari,1,51.2,29.6,0,1,MEDIUM
+2019,7,Canadian Grand Prix,SAI,McLaren,11,51.2,29.6,0,0,SOFT
+2019,7,Canadian Grand Prix,RUS,Williams,18,51.2,29.6,0,1,MEDIUM
+2019,7,Canadian Grand Prix,RAI,Alfa Romeo Racing,16,51.2,29.6,0,1,MEDIUM
+2019,7,Canadian Grand Prix,BOT,Mercedes,6,51.2,29.6,0,1,MEDIUM
+2019,7,Canadian Grand Prix,GRO,Haas F1 Team,14,51.2,29.6,0,1,MEDIUM
+2019,7,Canadian Grand Prix,KUB,Williams,19,51.2,29.6,0,1,MEDIUM
+2019,7,Canadian Grand Prix,GIO,Alfa Romeo Racing,12,51.2,29.6,0,2,HARD
+2019,8,French Grand Prix,HAM,Mercedes,1,54.5,26.9,0,1,MEDIUM
+2019,8,French Grand Prix,BOT,Mercedes,2,54.5,26.9,0,1,MEDIUM
+2019,8,French Grand Prix,LEC,Ferrari,3,54.5,26.9,0,1,MEDIUM
+2019,8,French Grand Prix,VER,Red Bull Racing,4,54.5,26.9,0,1,MEDIUM
+2019,8,French Grand Prix,VET,Ferrari,7,54.5,26.9,0,1,MEDIUM
+2019,8,French Grand Prix,SAI,McLaren,6,54.5,26.9,0,1,MEDIUM
+2019,8,French Grand Prix,RAI,Alfa Romeo Racing,12,54.5,26.9,0,2,HARD
+2019,8,French Grand Prix,HUL,Renault,13,54.5,26.9,0,2,HARD
+2019,8,French Grand Prix,NOR,McLaren,5,54.5,26.9,0,1,MEDIUM
+2019,8,French Grand Prix,GAS,Red Bull Racing,9,54.5,26.9,0,0,SOFT
+2019,8,French Grand Prix,RIC,Renault,8,54.5,26.9,0,1,MEDIUM
+2019,8,French Grand Prix,PER,Racing Point,14,54.5,26.9,0,1,MEDIUM
+2019,8,French Grand Prix,STR,Racing Point,17,54.5,26.9,0,2,HARD
+2019,8,French Grand Prix,KVY,Toro Rosso,19,54.5,26.9,0,2,HARD
+2019,8,French Grand Prix,ALB,Toro Rosso,11,54.5,26.9,0,1,MEDIUM
+2019,8,French Grand Prix,GIO,Alfa Romeo Racing,10,54.5,26.9,0,0,SOFT
+2019,8,French Grand Prix,MAG,Haas F1 Team,15,54.5,26.9,0,1,MEDIUM
+2019,8,French Grand Prix,KUB,Williams,18,54.5,26.9,0,1,MEDIUM
+2019,8,French Grand Prix,RUS,Williams,20,54.5,26.9,0,1,MEDIUM
+2019,8,French Grand Prix,GRO,Haas F1 Team,16,54.5,26.9,0,2,HARD
+2019,9,Austrian Grand Prix,VER,Red Bull Racing,2,50.8,34.7,0,1,MEDIUM
+2019,9,Austrian Grand Prix,LEC,Ferrari,1,50.8,34.7,0,0,SOFT
+2019,9,Austrian Grand Prix,BOT,Mercedes,3,50.8,34.7,0,1,MEDIUM
+2019,9,Austrian Grand Prix,VET,Ferrari,9,50.8,34.7,0,0,SOFT
+2019,9,Austrian Grand Prix,HAM,Mercedes,4,50.8,34.7,0,1,MEDIUM
+2019,9,Austrian Grand Prix,NOR,McLaren,5,50.8,34.7,0,0,SOFT
+2019,9,Austrian Grand Prix,GAS,Red Bull Racing,8,50.8,34.7,0,0,SOFT
+2019,9,Austrian Grand Prix,SAI,McLaren,19,50.8,34.7,0,1,MEDIUM
+2019,9,Austrian Grand Prix,RAI,Alfa Romeo Racing,6,50.8,34.7,0,0,SOFT
+2019,9,Austrian Grand Prix,GIO,Alfa Romeo Racing,7,50.8,34.7,0,0,SOFT
+2019,9,Austrian Grand Prix,PER,Racing Point,13,50.8,34.7,0,1,MEDIUM
+2019,9,Austrian Grand Prix,RIC,Renault,12,50.8,34.7,0,1,MEDIUM
+2019,9,Austrian Grand Prix,HUL,Renault,15,50.8,34.7,0,1,MEDIUM
+2019,9,Austrian Grand Prix,STR,Racing Point,14,50.8,34.7,0,1,MEDIUM
+2019,9,Austrian Grand Prix,ALB,Toro Rosso,18,50.8,34.7,0,1,MEDIUM
+2019,9,Austrian Grand Prix,GRO,Haas F1 Team,11,50.8,34.7,0,1,MEDIUM
+2019,9,Austrian Grand Prix,KVY,Toro Rosso,16,50.8,34.7,0,1,MEDIUM
+2019,9,Austrian Grand Prix,RUS,Williams,1,50.8,34.7,0,1,MEDIUM
+2019,9,Austrian Grand Prix,MAG,Haas F1 Team,10,50.8,34.7,0,0,SOFT
+2019,9,Austrian Grand Prix,KUB,Williams,17,50.8,34.7,0,1,MEDIUM
+2019,10,British Grand Prix,GAS,Red Bull Racing,5,30.2,18.9,0,1,MEDIUM
+2019,10,British Grand Prix,PER,Racing Point,15,30.2,18.9,0,1,MEDIUM
+2019,10,British Grand Prix,LEC,Ferrari,3,30.2,18.9,0,0,SOFT
+2019,10,British Grand Prix,STR,Racing Point,18,30.2,18.9,0,1,MEDIUM
+2019,10,British Grand Prix,MAG,Haas F1 Team,16,30.2,18.9,0,0,SOFT
+2019,10,British Grand Prix,ALB,Toro Rosso,9,30.2,18.9,0,0,SOFT
+2019,10,British Grand Prix,KVY,Toro Rosso,17,30.2,18.9,0,0,SOFT
+2019,10,British Grand Prix,HUL,Renault,10,30.2,18.9,0,0,SOFT
+2019,10,British Grand Prix,RIC,Renault,7,30.2,18.9,0,0,SOFT
+2019,10,British Grand Prix,VER,Red Bull Racing,4,30.2,18.9,0,1,MEDIUM
+2019,10,British Grand Prix,NOR,McLaren,8,30.2,18.9,0,0,SOFT
+2019,10,British Grand Prix,HAM,Mercedes,2,30.2,18.9,0,1,MEDIUM
+2019,10,British Grand Prix,VET,Ferrari,6,30.2,18.9,0,0,SOFT
+2019,10,British Grand Prix,SAI,McLaren,13,30.2,18.9,0,1,MEDIUM
+2019,10,British Grand Prix,RUS,Williams,19,30.2,18.9,0,1,MEDIUM
+2019,10,British Grand Prix,RAI,Alfa Romeo Racing,12,30.2,18.9,0,1,MEDIUM
+2019,10,British Grand Prix,BOT,Mercedes,1,30.2,18.9,0,1,MEDIUM
+2019,10,British Grand Prix,GRO,Haas F1 Team,14,30.2,18.9,0,0,SOFT
+2019,10,British Grand Prix,KUB,Williams,20,30.2,18.9,0,1,MEDIUM
+2019,10,British Grand Prix,GIO,Alfa Romeo Racing,11,30.2,18.9,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,HAM,Mercedes,3,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,VER,Red Bull Racing,1,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,VET,Ferrari,5,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,LEC,Ferrari,4,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,SAI,McLaren,8,44.5,25.7,0,0,SOFT
+2019,12,Hungarian Grand Prix,GAS,Red Bull Racing,6,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,RAI,Alfa Romeo Racing,10,44.5,25.7,0,0,SOFT
+2019,12,Hungarian Grand Prix,BOT,Mercedes,2,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,NOR,McLaren,7,44.5,25.7,0,0,SOFT
+2019,12,Hungarian Grand Prix,ALB,Toro Rosso,12,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,PER,Racing Point,16,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,HUL,Renault,11,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,MAG,Haas F1 Team,14,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,RIC,Renault,20,44.5,25.7,0,2,HARD
+2019,12,Hungarian Grand Prix,KVY,Toro Rosso,13,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,RUS,Williams,15,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,STR,Racing Point,18,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,GIO,Alfa Romeo Racing,17,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,KUB,Williams,19,44.5,25.7,0,1,MEDIUM
+2019,12,Hungarian Grand Prix,GRO,Haas F1 Team,9,44.5,25.7,0,0,SOFT
+2019,13,Belgian Grand Prix,GAS,Toro Rosso,13,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,PER,Racing Point,7,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,LEC,Ferrari,1,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,STR,Racing Point,16,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,MAG,Haas F1 Team,8,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,ALB,Red Bull Racing,17,28.2,17.4,0,1,MEDIUM
+2019,13,Belgian Grand Prix,KVY,Toro Rosso,19,28.2,17.4,0,1,MEDIUM
+2019,13,Belgian Grand Prix,HUL,Renault,12,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,RIC,Renault,10,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,VER,Red Bull Racing,5,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,NOR,McLaren,11,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,HAM,Mercedes,3,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,VET,Ferrari,2,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,SAI,McLaren,15,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,RUS,Williams,14,28.2,17.4,0,1,MEDIUM
+2019,13,Belgian Grand Prix,RAI,Alfa Romeo Racing,6,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,BOT,Mercedes,4,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,GRO,Haas F1 Team,9,28.2,17.4,0,0,SOFT
+2019,13,Belgian Grand Prix,KUB,Williams,1,28.2,17.4,0,1,MEDIUM
+2019,13,Belgian Grand Prix,GIO,Alfa Romeo Racing,18,28.2,17.4,0,1,MEDIUM
+2019,14,Italian Grand Prix,GAS,Toro Rosso,17,32.9,21.2,0,1,MEDIUM
+2019,14,Italian Grand Prix,PER,Racing Point,18,32.9,21.2,0,1,MEDIUM
+2019,14,Italian Grand Prix,LEC,Ferrari,1,32.9,21.2,0,0,SOFT
+2019,14,Italian Grand Prix,STR,Racing Point,9,32.9,21.2,0,0,SOFT
+2019,14,Italian Grand Prix,MAG,Haas F1 Team,11,32.9,21.2,0,0,SOFT
+2019,14,Italian Grand Prix,ALB,Red Bull Racing,8,32.9,21.2,0,0,SOFT
+2019,14,Italian Grand Prix,KVY,Toro Rosso,12,32.9,21.2,0,1,MEDIUM
+2019,14,Italian Grand Prix,HUL,Renault,6,32.9,21.2,0,0,SOFT
+2019,14,Italian Grand Prix,RIC,Renault,5,32.9,21.2,0,0,SOFT
+2019,14,Italian Grand Prix,VER,Red Bull Racing,19,32.9,21.2,0,1,MEDIUM
+2019,14,Italian Grand Prix,NOR,McLaren,16,32.9,21.2,0,1,MEDIUM
+2019,14,Italian Grand Prix,HAM,Mercedes,2,32.9,21.2,0,0,SOFT
+2019,14,Italian Grand Prix,VET,Ferrari,4,32.9,21.2,0,0,SOFT
+2019,14,Italian Grand Prix,SAI,McLaren,7,32.9,21.2,0,0,SOFT
+2019,14,Italian Grand Prix,RUS,Williams,14,32.9,21.2,0,1,MEDIUM
+2019,14,Italian Grand Prix,RAI,Alfa Romeo Racing,1,32.9,21.2,0,1,MEDIUM
+2019,14,Italian Grand Prix,BOT,Mercedes,3,32.9,21.2,0,0,SOFT
+2019,14,Italian Grand Prix,GRO,Haas F1 Team,13,32.9,21.2,0,0,SOFT
+2019,14,Italian Grand Prix,KUB,Williams,15,32.9,21.2,0,1,MEDIUM
+2019,14,Italian Grand Prix,GIO,Alfa Romeo Racing,10,32.9,21.2,0,0,SOFT
+2019,15,Singapore Grand Prix,GAS,Toro Rosso,11,35.7,30.0,0,2,HARD
+2019,15,Singapore Grand Prix,PER,Racing Point,15,35.7,30.0,0,1,MEDIUM
+2019,15,Singapore Grand Prix,LEC,Ferrari,1,35.7,30.0,0,0,SOFT
+2019,15,Singapore Grand Prix,STR,Racing Point,16,35.7,30.0,0,1,MEDIUM
+2019,15,Singapore Grand Prix,MAG,Haas F1 Team,13,35.7,30.0,0,1,MEDIUM
+2019,15,Singapore Grand Prix,ALB,Red Bull Racing,6,35.7,30.0,0,0,SOFT
+2019,15,Singapore Grand Prix,KVY,Toro Rosso,14,35.7,30.0,0,1,MEDIUM
+2019,15,Singapore Grand Prix,HUL,Renault,8,35.7,30.0,0,0,SOFT
+2019,15,Singapore Grand Prix,RIC,Renault,20,35.7,30.0,0,1,MEDIUM
+2019,15,Singapore Grand Prix,VER,Red Bull Racing,4,35.7,30.0,0,0,SOFT
+2019,15,Singapore Grand Prix,NOR,McLaren,9,35.7,30.0,0,0,SOFT
+2019,15,Singapore Grand Prix,HAM,Mercedes,2,35.7,30.0,0,0,SOFT
+2019,15,Singapore Grand Prix,VET,Ferrari,3,35.7,30.0,0,0,SOFT
+2019,15,Singapore Grand Prix,SAI,McLaren,7,35.7,30.0,0,0,SOFT
+2019,15,Singapore Grand Prix,RUS,Williams,18,35.7,30.0,0,1,MEDIUM
+2019,15,Singapore Grand Prix,RAI,Alfa Romeo Racing,12,35.7,30.0,0,1,MEDIUM
+2019,15,Singapore Grand Prix,BOT,Mercedes,5,35.7,30.0,0,0,SOFT
+2019,15,Singapore Grand Prix,GRO,Haas F1 Team,17,35.7,30.0,0,1,MEDIUM
+2019,15,Singapore Grand Prix,KUB,Williams,19,35.7,30.0,0,1,MEDIUM
+2019,15,Singapore Grand Prix,GIO,Alfa Romeo Racing,10,35.7,30.0,0,1,MEDIUM
+2019,17,Japanese Grand Prix,GAS,Toro Rosso,9,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,PER,Racing Point,17,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,LEC,Ferrari,2,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,STR,Racing Point,12,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,MAG,Haas F1 Team,19,31.0,21.6,0,1,MEDIUM
+2019,17,Japanese Grand Prix,ALB,Red Bull Racing,6,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,KVY,Toro Rosso,14,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,HUL,Renault,15,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,RIC,Renault,16,31.0,21.6,0,1,MEDIUM
+2019,17,Japanese Grand Prix,VER,Red Bull Racing,5,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,NOR,McLaren,8,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,HAM,Mercedes,4,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,VET,Ferrari,1,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,SAI,McLaren,7,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,RUS,Williams,18,31.0,21.6,0,1,MEDIUM
+2019,17,Japanese Grand Prix,RAI,Alfa Romeo Racing,13,31.0,21.6,0,1,MEDIUM
+2019,17,Japanese Grand Prix,BOT,Mercedes,3,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,GRO,Haas F1 Team,10,31.0,21.6,0,0,SOFT
+2019,17,Japanese Grand Prix,KUB,Williams,1,31.0,21.6,0,1,MEDIUM
+2019,17,Japanese Grand Prix,GIO,Alfa Romeo Racing,11,31.0,21.6,0,1,MEDIUM
+2019,18,Mexican Grand Prix,HAM,Mercedes,3,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,VET,Ferrari,2,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,BOT,Mercedes,6,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,LEC,Ferrari,1,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,ALB,Red Bull Racing,5,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,VER,Red Bull Racing,4,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,PER,Racing Point,11,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,RIC,Renault,13,41.4,23.3,0,2,HARD
+2019,18,Mexican Grand Prix,GAS,Toro Rosso,10,41.4,23.3,0,0,SOFT
+2019,18,Mexican Grand Prix,HUL,Renault,12,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,KVY,Toro Rosso,9,41.4,23.3,0,0,SOFT
+2019,18,Mexican Grand Prix,STR,Racing Point,16,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,SAI,McLaren,7,41.4,23.3,0,0,SOFT
+2019,18,Mexican Grand Prix,GIO,Alfa Romeo Racing,15,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,MAG,Haas F1 Team,17,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,RUS,Williams,19,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,GRO,Haas F1 Team,18,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,KUB,Williams,20,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,RAI,Alfa Romeo Racing,14,41.4,23.3,0,1,MEDIUM
+2019,18,Mexican Grand Prix,NOR,McLaren,8,41.4,23.3,0,0,SOFT
+2019,19,United States Grand Prix,GAS,Toro Rosso,10,29.0,21.6,0,0,SOFT
+2019,19,United States Grand Prix,PER,Racing Point,1,29.0,21.6,0,1,MEDIUM
+2019,19,United States Grand Prix,LEC,Ferrari,4,29.0,21.6,0,1,MEDIUM
+2019,19,United States Grand Prix,STR,Racing Point,14,29.0,21.6,0,1,MEDIUM
+2019,19,United States Grand Prix,MAG,Haas F1 Team,12,29.0,21.6,0,1,MEDIUM
+2019,19,United States Grand Prix,ALB,Red Bull Racing,6,29.0,21.6,0,0,SOFT
+2019,19,United States Grand Prix,KVY,Toro Rosso,13,29.0,21.6,0,2,HARD
+2019,19,United States Grand Prix,HUL,Renault,11,29.0,21.6,0,2,HARD
+2019,19,United States Grand Prix,RIC,Renault,9,29.0,21.6,0,0,SOFT
+2019,19,United States Grand Prix,VER,Red Bull Racing,3,29.0,21.6,0,1,MEDIUM
+2019,19,United States Grand Prix,NOR,McLaren,8,29.0,21.6,0,0,SOFT
+2019,19,United States Grand Prix,HAM,Mercedes,5,29.0,21.6,0,1,MEDIUM
+2019,19,United States Grand Prix,VET,Ferrari,2,29.0,21.6,0,1,MEDIUM
+2019,19,United States Grand Prix,SAI,McLaren,7,29.0,21.6,0,0,SOFT
+2019,19,United States Grand Prix,RUS,Williams,18,29.0,21.6,0,1,MEDIUM
+2019,19,United States Grand Prix,RAI,Alfa Romeo Racing,17,29.0,21.6,0,0,SOFT
+2019,19,United States Grand Prix,BOT,Mercedes,1,29.0,21.6,0,1,MEDIUM
+2019,19,United States Grand Prix,GRO,Haas F1 Team,15,29.0,21.6,0,1,MEDIUM
+2019,19,United States Grand Prix,KUB,Williams,19,29.0,21.6,0,1,MEDIUM
+2019,19,United States Grand Prix,GIO,Alfa Romeo Racing,16,29.0,21.6,0,1,MEDIUM
+2019,20,Brazilian Grand Prix,GAS,Toro Rosso,6,47.3,21.1,0,0,SOFT
+2019,20,Brazilian Grand Prix,PER,Racing Point,15,47.3,21.1,0,0,SOFT
+2019,20,Brazilian Grand Prix,LEC,Ferrari,14,47.3,21.1,0,1,MEDIUM
+2019,20,Brazilian Grand Prix,STR,Racing Point,17,47.3,21.1,0,0,SOFT
+2019,20,Brazilian Grand Prix,MAG,Haas F1 Team,9,47.3,21.1,0,0,SOFT
+2019,20,Brazilian Grand Prix,ALB,Red Bull Racing,5,47.3,21.1,0,0,SOFT
+2019,20,Brazilian Grand Prix,KVY,Toro Rosso,16,47.3,21.1,0,1,MEDIUM
+2019,20,Brazilian Grand Prix,HUL,Renault,13,47.3,21.1,0,1,MEDIUM
+2019,20,Brazilian Grand Prix,RIC,Renault,11,47.3,21.1,0,1,MEDIUM
+2019,20,Brazilian Grand Prix,VER,Red Bull Racing,1,47.3,21.1,0,0,SOFT
+2019,20,Brazilian Grand Prix,NOR,McLaren,10,47.3,21.1,0,0,SOFT
+2019,20,Brazilian Grand Prix,HAM,Mercedes,3,47.3,21.1,0,0,SOFT
+2019,20,Brazilian Grand Prix,VET,Ferrari,2,47.3,21.1,0,0,SOFT
+2019,20,Brazilian Grand Prix,SAI,McLaren,20,47.3,21.1,0,0,SOFT
+2019,20,Brazilian Grand Prix,RUS,Williams,18,47.3,21.1,0,1,MEDIUM
+2019,20,Brazilian Grand Prix,RAI,Alfa Romeo Racing,8,47.3,21.1,0,0,SOFT
+2019,20,Brazilian Grand Prix,BOT,Mercedes,4,47.3,21.1,0,0,SOFT
+2019,20,Brazilian Grand Prix,GRO,Haas F1 Team,7,47.3,21.1,0,0,SOFT
+2019,20,Brazilian Grand Prix,KUB,Williams,19,47.3,21.1,0,1,MEDIUM
+2019,20,Brazilian Grand Prix,GIO,Alfa Romeo Racing,12,47.3,21.1,0,0,SOFT
+2019,21,Abu Dhabi Grand Prix,HAM,Mercedes,1,29.6,25.9,0,1,MEDIUM
+2019,21,Abu Dhabi Grand Prix,VER,Red Bull Racing,2,29.6,25.9,0,1,MEDIUM
+2019,21,Abu Dhabi Grand Prix,LEC,Ferrari,3,29.6,25.9,0,1,MEDIUM
+2019,21,Abu Dhabi Grand Prix,BOT,Mercedes,20,29.6,25.9,0,1,MEDIUM
+2019,21,Abu Dhabi Grand Prix,VET,Ferrari,4,29.6,25.9,0,0,SOFT
+2019,21,Abu Dhabi Grand Prix,ALB,Red Bull Racing,5,29.6,25.9,0,1,MEDIUM
+2019,21,Abu Dhabi Grand Prix,PER,Racing Point,10,29.6,25.9,0,1,MEDIUM
+2019,21,Abu Dhabi Grand Prix,NOR,McLaren,6,29.6,25.9,0,0,SOFT
+2019,21,Abu Dhabi Grand Prix,KVY,Toro Rosso,13,29.6,25.9,0,2,HARD
+2019,21,Abu Dhabi Grand Prix,SAI,McLaren,8,29.6,25.9,0,0,SOFT
+2019,21,Abu Dhabi Grand Prix,RIC,Renault,7,29.6,25.9,0,0,SOFT
+2019,21,Abu Dhabi Grand Prix,HUL,Renault,9,29.6,25.9,0,0,SOFT
+2019,21,Abu Dhabi Grand Prix,RAI,Alfa Romeo Racing,17,29.6,25.9,0,1,MEDIUM
+2019,21,Abu Dhabi Grand Prix,MAG,Haas F1 Team,14,29.6,25.9,0,1,MEDIUM
+2019,21,Abu Dhabi Grand Prix,GRO,Haas F1 Team,15,29.6,25.9,0,1,MEDIUM
+2019,21,Abu Dhabi Grand Prix,GIO,Alfa Romeo Racing,16,29.6,25.9,0,0,SOFT
+2019,21,Abu Dhabi Grand Prix,RUS,Williams,18,29.6,25.9,0,2,HARD
+2019,21,Abu Dhabi Grand Prix,GAS,Toro Rosso,11,29.6,25.9,0,1,MEDIUM
+2019,21,Abu Dhabi Grand Prix,KUB,Williams,19,29.6,25.9,0,2,HARD
+2019,21,Abu Dhabi Grand Prix,STR,Racing Point,12,29.6,25.9,0,1,MEDIUM
+2020,1,Austrian Grand Prix,GAS,AlphaTauri,12,52.2,28.7,0,1,MEDIUM
+2020,1,Austrian Grand Prix,PER,Racing Point,6,52.2,28.7,0,0,SOFT
+2020,1,Austrian Grand Prix,LEC,Ferrari,7,52.2,28.7,0,0,SOFT
+2020,1,Austrian Grand Prix,STR,Racing Point,9,52.2,28.7,0,0,SOFT
+2020,1,Austrian Grand Prix,MAG,Haas F1 Team,16,52.2,28.7,0,1,MEDIUM
+2020,1,Austrian Grand Prix,ALB,Red Bull Racing,4,52.2,28.7,0,0,SOFT
+2020,1,Austrian Grand Prix,KVY,AlphaTauri,13,52.2,28.7,0,1,MEDIUM
+2020,1,Austrian Grand Prix,RIC,Renault,10,52.2,28.7,0,0,SOFT
+2020,1,Austrian Grand Prix,OCO,Renault,14,52.2,28.7,0,1,MEDIUM
+2020,1,Austrian Grand Prix,VER,Red Bull Racing,2,52.2,28.7,0,1,MEDIUM
+2020,1,Austrian Grand Prix,NOR,McLaren,3,52.2,28.7,0,0,SOFT
+2020,1,Austrian Grand Prix,HAM,Mercedes,5,52.2,28.7,0,0,SOFT
+2020,1,Austrian Grand Prix,VET,Ferrari,11,52.2,28.7,0,1,MEDIUM
+2020,1,Austrian Grand Prix,SAI,McLaren,8,52.2,28.7,0,0,SOFT
+2020,1,Austrian Grand Prix,LAT,Williams,20,52.2,28.7,0,1,MEDIUM
+2020,1,Austrian Grand Prix,RUS,Williams,17,52.2,28.7,0,1,MEDIUM
+2020,1,Austrian Grand Prix,RAI,Alfa Romeo Racing,19,52.2,28.7,0,1,MEDIUM
+2020,1,Austrian Grand Prix,BOT,Mercedes,1,52.2,28.7,0,0,SOFT
+2020,1,Austrian Grand Prix,GRO,Haas F1 Team,15,52.2,28.7,0,1,MEDIUM
+2020,1,Austrian Grand Prix,GIO,Alfa Romeo Racing,18,52.2,28.7,0,1,MEDIUM
+2020,4,British Grand Prix,GAS,AlphaTauri,11,41.1,21.2,0,1,MEDIUM
+2020,4,British Grand Prix,LEC,Ferrari,4,41.1,21.2,0,1,MEDIUM
+2020,4,British Grand Prix,STR,Racing Point,6,41.1,21.2,0,1,MEDIUM
+2020,4,British Grand Prix,MAG,Haas F1 Team,14,41.1,21.2,0,1,MEDIUM
+2020,4,British Grand Prix,ALB,Red Bull Racing,12,41.1,21.2,0,1,MEDIUM
+2020,4,British Grand Prix,KVY,AlphaTauri,19,41.1,21.2,0,1,MEDIUM
+2020,4,British Grand Prix,HUL,Racing Point,13,41.1,21.2,0,2,HARD
+2020,4,British Grand Prix,RIC,Renault,8,41.1,21.2,0,0,SOFT
+2020,4,British Grand Prix,OCO,Renault,9,41.1,21.2,0,0,SOFT
+2020,4,British Grand Prix,VER,Red Bull Racing,3,41.1,21.2,0,1,MEDIUM
+2020,4,British Grand Prix,NOR,McLaren,5,41.1,21.2,0,0,SOFT
+2020,4,British Grand Prix,HAM,Mercedes,1,41.1,21.2,0,1,MEDIUM
+2020,4,British Grand Prix,VET,Ferrari,10,41.1,21.2,0,0,SOFT
+2020,4,British Grand Prix,SAI,McLaren,7,41.1,21.2,0,0,SOFT
+2020,4,British Grand Prix,LAT,Williams,18,41.1,21.2,0,1,MEDIUM
+2020,4,British Grand Prix,RUS,Williams,20,41.1,21.2,0,1,MEDIUM
+2020,4,British Grand Prix,RAI,Alfa Romeo Racing,16,41.1,21.2,0,1,MEDIUM
+2020,4,British Grand Prix,BOT,Mercedes,2,41.1,21.2,0,1,MEDIUM
+2020,4,British Grand Prix,GRO,Haas F1 Team,17,41.1,21.2,0,1,MEDIUM
+2020,4,British Grand Prix,GIO,Alfa Romeo Racing,15,41.1,21.2,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,VER,Red Bull Racing,4,43.5,25.5,0,2,HARD
+2020,5,70th Anniversary Grand Prix,HAM,Mercedes,2,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,BOT,Mercedes,1,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,LEC,Ferrari,8,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,ALB,Red Bull Racing,9,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,STR,Racing Point,6,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,HUL,Racing Point,3,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,OCO,Renault,14,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,NOR,McLaren,10,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,KVY,AlphaTauri,16,43.5,25.5,0,2,HARD
+2020,5,70th Anniversary Grand Prix,GAS,AlphaTauri,7,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,VET,Ferrari,11,43.5,25.5,0,2,HARD
+2020,5,70th Anniversary Grand Prix,SAI,McLaren,12,43.5,25.5,0,2,HARD
+2020,5,70th Anniversary Grand Prix,RIC,Renault,5,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,RAI,Alfa Romeo Racing,20,43.5,25.5,0,2,HARD
+2020,5,70th Anniversary Grand Prix,GRO,Haas F1 Team,13,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,GIO,Alfa Romeo Racing,19,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,RUS,Williams,15,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,LAT,Williams,18,43.5,25.5,0,1,MEDIUM
+2020,5,70th Anniversary Grand Prix,MAG,Haas F1 Team,17,43.5,25.5,0,1,MEDIUM
+2020,6,Spanish Grand Prix,HAM,Mercedes,1,48.1,29.9,0,0,SOFT
+2020,6,Spanish Grand Prix,VER,Red Bull Racing,3,48.1,29.9,0,0,SOFT
+2020,6,Spanish Grand Prix,BOT,Mercedes,2,48.1,29.9,0,0,SOFT
+2020,6,Spanish Grand Prix,STR,Racing Point,5,48.1,29.9,0,0,SOFT
+2020,6,Spanish Grand Prix,PER,Racing Point,4,48.1,29.9,0,0,SOFT
+2020,6,Spanish Grand Prix,SAI,McLaren,7,48.1,29.9,0,0,SOFT
+2020,6,Spanish Grand Prix,VET,Ferrari,11,48.1,29.9,0,1,MEDIUM
+2020,6,Spanish Grand Prix,ALB,Red Bull Racing,6,48.1,29.9,0,0,SOFT
+2020,6,Spanish Grand Prix,GAS,AlphaTauri,10,48.1,29.9,0,0,SOFT
+2020,6,Spanish Grand Prix,NOR,McLaren,8,48.1,29.9,0,0,SOFT
+2020,6,Spanish Grand Prix,RIC,Renault,13,48.1,29.9,0,1,MEDIUM
+2020,6,Spanish Grand Prix,KVY,AlphaTauri,12,48.1,29.9,0,0,SOFT
+2020,6,Spanish Grand Prix,OCO,Renault,15,48.1,29.9,0,1,MEDIUM
+2020,6,Spanish Grand Prix,RAI,Alfa Romeo Racing,14,48.1,29.9,0,1,MEDIUM
+2020,6,Spanish Grand Prix,MAG,Haas F1 Team,16,48.1,29.9,0,0,SOFT
+2020,6,Spanish Grand Prix,GIO,Alfa Romeo Racing,20,48.1,29.9,0,1,MEDIUM
+2020,6,Spanish Grand Prix,RUS,Williams,18,48.1,29.9,0,0,SOFT
+2020,6,Spanish Grand Prix,LAT,Williams,19,48.1,29.9,0,1,MEDIUM
+2020,6,Spanish Grand Prix,GRO,Haas F1 Team,17,48.1,29.9,0,1,MEDIUM
+2020,6,Spanish Grand Prix,LEC,Ferrari,9,48.1,29.9,0,0,SOFT
+2020,7,Belgian Grand Prix,GAS,AlphaTauri,12,30.1,18.4,0,2,HARD
+2020,7,Belgian Grand Prix,PER,Racing Point,8,30.1,18.4,0,0,SOFT
+2020,7,Belgian Grand Prix,LEC,Ferrari,13,30.1,18.4,0,0,SOFT
+2020,7,Belgian Grand Prix,STR,Racing Point,9,30.1,18.4,0,0,SOFT
+2020,7,Belgian Grand Prix,MAG,Haas F1 Team,20,30.1,18.4,0,1,MEDIUM
+2020,7,Belgian Grand Prix,ALB,Red Bull Racing,5,30.1,18.4,0,0,SOFT
+2020,7,Belgian Grand Prix,KVY,AlphaTauri,11,30.1,18.4,0,1,MEDIUM
+2020,7,Belgian Grand Prix,RIC,Renault,4,30.1,18.4,0,0,SOFT
+2020,7,Belgian Grand Prix,OCO,Renault,6,30.1,18.4,0,0,SOFT
+2020,7,Belgian Grand Prix,VER,Red Bull Racing,3,30.1,18.4,0,1,MEDIUM
+2020,7,Belgian Grand Prix,NOR,McLaren,10,30.1,18.4,0,0,SOFT
+2020,7,Belgian Grand Prix,HAM,Mercedes,1,30.1,18.4,0,1,MEDIUM
+2020,7,Belgian Grand Prix,VET,Ferrari,14,30.1,18.4,0,1,MEDIUM
+2020,7,Belgian Grand Prix,SAI,McLaren,7,30.1,18.4,0,0,SOFT
+2020,7,Belgian Grand Prix,LAT,Williams,19,30.1,18.4,0,1,MEDIUM
+2020,7,Belgian Grand Prix,RUS,Williams,15,30.1,18.4,0,1,MEDIUM
+2020,7,Belgian Grand Prix,RAI,Alfa Romeo Racing,16,30.1,18.4,0,1,MEDIUM
+2020,7,Belgian Grand Prix,BOT,Mercedes,2,30.1,18.4,0,1,MEDIUM
+2020,7,Belgian Grand Prix,GRO,Haas F1 Team,17,30.1,18.4,0,1,MEDIUM
+2020,7,Belgian Grand Prix,GIO,Alfa Romeo Racing,18,30.1,18.4,0,1,MEDIUM
+2020,8,Italian Grand Prix,GAS,AlphaTauri,10,43.6,28.1,0,0,SOFT
+2020,8,Italian Grand Prix,SAI,McLaren,3,43.6,28.1,0,0,SOFT
+2020,8,Italian Grand Prix,STR,Racing Point,8,43.6,28.1,0,0,SOFT
+2020,8,Italian Grand Prix,NOR,McLaren,6,43.6,28.1,0,0,SOFT
+2020,8,Italian Grand Prix,BOT,Mercedes,2,43.6,28.1,0,0,SOFT
+2020,8,Italian Grand Prix,RIC,Renault,7,43.6,28.1,0,0,SOFT
+2020,8,Italian Grand Prix,HAM,Mercedes,1,43.6,28.1,0,0,SOFT
+2020,8,Italian Grand Prix,OCO,Renault,12,43.6,28.1,0,0,SOFT
+2020,8,Italian Grand Prix,KVY,AlphaTauri,11,43.6,28.1,0,2,HARD
+2020,8,Italian Grand Prix,PER,Racing Point,4,43.6,28.1,0,0,SOFT
+2020,8,Italian Grand Prix,LAT,Williams,20,43.6,28.1,0,1,MEDIUM
+2020,8,Italian Grand Prix,GRO,Haas F1 Team,16,43.6,28.1,0,1,MEDIUM
+2020,8,Italian Grand Prix,RAI,Alfa Romeo Racing,14,43.6,28.1,0,1,MEDIUM
+2020,8,Italian Grand Prix,RUS,Williams,19,43.6,28.1,0,1,MEDIUM
+2020,8,Italian Grand Prix,ALB,Red Bull Racing,9,43.6,28.1,0,0,SOFT
+2020,8,Italian Grand Prix,GIO,Alfa Romeo Racing,18,43.6,28.1,0,1,MEDIUM
+2020,8,Italian Grand Prix,VER,Red Bull Racing,5,43.6,28.1,0,0,SOFT
+2020,8,Italian Grand Prix,LEC,Ferrari,13,43.6,28.1,0,0,SOFT
+2020,8,Italian Grand Prix,MAG,Haas F1 Team,15,43.6,28.1,0,1,MEDIUM
+2020,8,Italian Grand Prix,VET,Ferrari,17,43.6,28.1,0,2,HARD
+2020,9,Tuscan Grand Prix,GAS,AlphaTauri,16,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,PER,Racing Point,7,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,LEC,Ferrari,5,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,STR,Racing Point,6,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,MAG,Haas F1 Team,20,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,ALB,Red Bull Racing,4,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,KVY,AlphaTauri,12,43.8,30.2,0,1,MEDIUM
+2020,9,Tuscan Grand Prix,RIC,Renault,8,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,OCO,Renault,10,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,VER,Red Bull Racing,3,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,NOR,McLaren,11,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,HAM,Mercedes,1,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,VET,Ferrari,14,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,SAI,McLaren,9,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,LAT,Williams,19,43.8,30.2,0,1,MEDIUM
+2020,9,Tuscan Grand Prix,RUS,Williams,18,43.8,30.2,0,1,MEDIUM
+2020,9,Tuscan Grand Prix,RAI,Alfa Romeo Racing,13,43.8,30.2,0,1,MEDIUM
+2020,9,Tuscan Grand Prix,BOT,Mercedes,2,43.8,30.2,0,0,SOFT
+2020,9,Tuscan Grand Prix,GRO,Haas F1 Team,15,43.8,30.2,0,1,MEDIUM
+2020,9,Tuscan Grand Prix,GIO,Alfa Romeo Racing,17,43.8,30.2,0,0,SOFT
+2020,10,Russian Grand Prix,BOT,Mercedes,3,40.6,28.6,0,1,MEDIUM
+2020,10,Russian Grand Prix,VER,Red Bull Racing,2,40.6,28.6,0,1,MEDIUM
+2020,10,Russian Grand Prix,HAM,Mercedes,1,40.6,28.6,0,0,SOFT
+2020,10,Russian Grand Prix,PER,Racing Point,4,40.6,28.6,0,0,SOFT
+2020,10,Russian Grand Prix,RIC,Renault,5,40.6,28.6,0,0,SOFT
+2020,10,Russian Grand Prix,LEC,Ferrari,10,40.6,28.6,0,1,MEDIUM
+2020,10,Russian Grand Prix,OCO,Renault,7,40.6,28.6,0,0,SOFT
+2020,10,Russian Grand Prix,KVY,AlphaTauri,11,40.6,28.6,0,2,HARD
+2020,10,Russian Grand Prix,GAS,AlphaTauri,9,40.6,28.6,0,0,SOFT
+2020,10,Russian Grand Prix,ALB,Red Bull Racing,15,40.6,28.6,0,0,SOFT
+2020,10,Russian Grand Prix,GIO,Alfa Romeo Racing,17,40.6,28.6,0,1,MEDIUM
+2020,10,Russian Grand Prix,MAG,Haas F1 Team,18,40.6,28.6,0,1,MEDIUM
+2020,10,Russian Grand Prix,VET,Ferrari,14,40.6,28.6,0,1,MEDIUM
+2020,10,Russian Grand Prix,RAI,Alfa Romeo Racing,19,40.6,28.6,0,2,HARD
+2020,10,Russian Grand Prix,NOR,McLaren,8,40.6,28.6,0,0,SOFT
+2020,10,Russian Grand Prix,LAT,Williams,20,40.6,28.6,0,1,MEDIUM
+2020,10,Russian Grand Prix,GRO,Haas F1 Team,16,40.6,28.6,0,1,MEDIUM
+2020,10,Russian Grand Prix,RUS,Williams,13,40.6,28.6,0,1,MEDIUM
+2020,10,Russian Grand Prix,SAI,McLaren,6,40.6,28.6,0,0,SOFT
+2020,10,Russian Grand Prix,STR,Racing Point,12,40.6,28.6,0,1,MEDIUM
+2020,12,Portuguese Grand Prix,HAM,Mercedes,1,25.7,20.5,0,1,MEDIUM
+2020,12,Portuguese Grand Prix,BOT,Mercedes,2,25.7,20.5,0,1,MEDIUM
+2020,12,Portuguese Grand Prix,VER,Red Bull Racing,3,25.7,20.5,0,0,SOFT
+2020,12,Portuguese Grand Prix,LEC,Ferrari,4,25.7,20.5,0,1,MEDIUM
+2020,12,Portuguese Grand Prix,GAS,AlphaTauri,9,25.7,20.5,0,0,SOFT
+2020,12,Portuguese Grand Prix,SAI,McLaren,7,25.7,20.5,0,0,SOFT
+2020,12,Portuguese Grand Prix,PER,Racing Point,5,25.7,20.5,0,0,SOFT
+2020,12,Portuguese Grand Prix,OCO,Renault,11,25.7,20.5,0,1,MEDIUM
+2020,12,Portuguese Grand Prix,RIC,Renault,10,25.7,20.5,0,0,SOFT
+2020,12,Portuguese Grand Prix,VET,Ferrari,15,25.7,20.5,0,1,MEDIUM
+2020,12,Portuguese Grand Prix,RAI,Alfa Romeo Racing,16,25.7,20.5,0,0,SOFT
+2020,12,Portuguese Grand Prix,ALB,Red Bull Racing,6,25.7,20.5,0,0,SOFT
+2020,12,Portuguese Grand Prix,NOR,McLaren,8,25.7,20.5,0,0,SOFT
+2020,12,Portuguese Grand Prix,RUS,Williams,14,25.7,20.5,0,1,MEDIUM
+2020,12,Portuguese Grand Prix,GIO,Alfa Romeo Racing,17,25.7,20.5,0,1,MEDIUM
+2020,12,Portuguese Grand Prix,MAG,Haas F1 Team,19,25.7,20.5,0,2,HARD
+2020,12,Portuguese Grand Prix,GRO,Haas F1 Team,18,25.7,20.5,0,1,MEDIUM
+2020,12,Portuguese Grand Prix,LAT,Williams,20,25.7,20.5,0,1,MEDIUM
+2020,12,Portuguese Grand Prix,KVY,AlphaTauri,13,25.7,20.5,0,1,MEDIUM
+2020,12,Portuguese Grand Prix,STR,Racing Point,12,25.7,20.5,0,1,MEDIUM
+2020,13,Emilia Romagna Grand Prix,GAS,AlphaTauri,4,23.1,18.2,0,0,SOFT
+2020,13,Emilia Romagna Grand Prix,PER,Racing Point,11,23.1,18.2,0,1,MEDIUM
+2020,13,Emilia Romagna Grand Prix,LEC,Ferrari,7,23.1,18.2,0,0,SOFT
+2020,13,Emilia Romagna Grand Prix,STR,Racing Point,15,23.1,18.2,0,1,MEDIUM
+2020,13,Emilia Romagna Grand Prix,MAG,Haas F1 Team,17,23.1,18.2,0,1,MEDIUM
+2020,13,Emilia Romagna Grand Prix,ALB,Red Bull Racing,6,23.1,18.2,0,0,SOFT
+2020,13,Emilia Romagna Grand Prix,KVY,AlphaTauri,8,23.1,18.2,0,0,SOFT
+2020,13,Emilia Romagna Grand Prix,RIC,Renault,5,23.1,18.2,0,0,SOFT
+2020,13,Emilia Romagna Grand Prix,OCO,Renault,12,23.1,18.2,0,1,MEDIUM
+2020,13,Emilia Romagna Grand Prix,VER,Red Bull Racing,3,23.1,18.2,0,1,MEDIUM
+2020,13,Emilia Romagna Grand Prix,NOR,McLaren,9,23.1,18.2,0,0,SOFT
+2020,13,Emilia Romagna Grand Prix,HAM,Mercedes,2,23.1,18.2,0,1,MEDIUM
+2020,13,Emilia Romagna Grand Prix,VET,Ferrari,14,23.1,18.2,0,1,MEDIUM
+2020,13,Emilia Romagna Grand Prix,SAI,McLaren,10,23.1,18.2,0,0,SOFT
+2020,13,Emilia Romagna Grand Prix,LAT,Williams,19,23.1,18.2,0,1,MEDIUM
+2020,13,Emilia Romagna Grand Prix,RUS,Williams,13,23.1,18.2,0,1,MEDIUM
+2020,13,Emilia Romagna Grand Prix,RAI,Alfa Romeo Racing,18,23.1,18.2,0,1,MEDIUM
+2020,13,Emilia Romagna Grand Prix,BOT,Mercedes,1,23.1,18.2,0,1,MEDIUM
+2020,13,Emilia Romagna Grand Prix,GRO,Haas F1 Team,16,23.1,18.2,0,1,MEDIUM
+2020,13,Emilia Romagna Grand Prix,GIO,Alfa Romeo Racing,20,23.1,18.2,0,0,SOFT
+2020,15,Bahrain Grand Prix,GAS,AlphaTauri,8,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,PER,Racing Point,5,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,LEC,Ferrari,12,27.3,25.0,0,2,HARD
+2020,15,Bahrain Grand Prix,STR,Racing Point,13,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,MAG,Haas F1 Team,18,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,ALB,Red Bull Racing,4,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,KVY,AlphaTauri,10,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,RIC,Renault,6,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,OCO,Renault,7,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,VER,Red Bull Racing,3,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,NOR,McLaren,9,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,HAM,Mercedes,1,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,VET,Ferrari,11,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,SAI,McLaren,15,27.3,25.0,0,0,SOFT
+2020,15,Bahrain Grand Prix,LAT,Williams,20,27.3,25.0,0,2,HARD
+2020,15,Bahrain Grand Prix,RUS,Williams,14,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,RAI,Alfa Romeo Racing,17,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,BOT,Mercedes,2,27.3,25.0,0,1,MEDIUM
+2020,15,Bahrain Grand Prix,GRO,Haas F1 Team,19,27.3,25.0,0,2,HARD
+2020,15,Bahrain Grand Prix,GIO,Alfa Romeo Racing,16,27.3,25.0,0,1,MEDIUM
+2020,16,Sakhir Grand Prix,GAS,AlphaTauri,9,23.4,20.8,0,0,SOFT
+2020,16,Sakhir Grand Prix,PER,Racing Point,5,23.4,20.8,0,0,SOFT
+2020,16,Sakhir Grand Prix,LEC,Ferrari,4,23.4,20.8,0,0,SOFT
+2020,16,Sakhir Grand Prix,STR,Racing Point,10,23.4,20.8,0,0,SOFT
+2020,16,Sakhir Grand Prix,MAG,Haas F1 Team,15,23.4,20.8,0,0,SOFT
+2020,16,Sakhir Grand Prix,ALB,Red Bull Racing,12,23.4,20.8,0,1,MEDIUM
+2020,16,Sakhir Grand Prix,KVY,AlphaTauri,6,23.4,20.8,0,0,SOFT
+2020,16,Sakhir Grand Prix,RIC,Renault,7,23.4,20.8,0,0,SOFT
+2020,16,Sakhir Grand Prix,OCO,Renault,11,23.4,20.8,0,1,MEDIUM
+2020,16,Sakhir Grand Prix,VER,Red Bull Racing,3,23.4,20.8,0,0,SOFT
+2020,16,Sakhir Grand Prix,NOR,McLaren,19,23.4,20.8,0,0,SOFT
+2020,16,Sakhir Grand Prix,VET,Ferrari,13,23.4,20.8,0,1,MEDIUM
+2020,16,Sakhir Grand Prix,FIT,Haas F1 Team,20,23.4,20.8,0,0,SOFT
+2020,16,Sakhir Grand Prix,SAI,McLaren,8,23.4,20.8,0,0,SOFT
+2020,16,Sakhir Grand Prix,LAT,Williams,16,23.4,20.8,0,0,SOFT
+2020,16,Sakhir Grand Prix,RUS,Mercedes,2,23.4,20.8,0,1,MEDIUM
+2020,16,Sakhir Grand Prix,RAI,Alfa Romeo Racing,18,23.4,20.8,0,1,MEDIUM
+2020,16,Sakhir Grand Prix,BOT,Mercedes,1,23.4,20.8,0,1,MEDIUM
+2020,16,Sakhir Grand Prix,AIT,Williams,17,23.4,20.8,0,1,MEDIUM
+2020,16,Sakhir Grand Prix,GIO,Alfa Romeo Racing,14,23.4,20.8,0,1,MEDIUM
+2020,17,Abu Dhabi Grand Prix,GAS,AlphaTauri,9,27.5,23.4,0,0,SOFT
+2020,17,Abu Dhabi Grand Prix,PER,Racing Point,19,27.5,23.4,0,2,HARD
+2020,17,Abu Dhabi Grand Prix,LEC,Ferrari,12,27.5,23.4,0,1,MEDIUM
+2020,17,Abu Dhabi Grand Prix,STR,Racing Point,8,27.5,23.4,0,0,SOFT
+2020,17,Abu Dhabi Grand Prix,MAG,Haas F1 Team,20,27.5,23.4,0,2,HARD
+2020,17,Abu Dhabi Grand Prix,ALB,Red Bull Racing,5,27.5,23.4,0,0,SOFT
+2020,17,Abu Dhabi Grand Prix,KVY,AlphaTauri,7,27.5,23.4,0,0,SOFT
+2020,17,Abu Dhabi Grand Prix,RIC,Renault,11,27.5,23.4,0,2,HARD
+2020,17,Abu Dhabi Grand Prix,OCO,Renault,10,27.5,23.4,0,1,MEDIUM
+2020,17,Abu Dhabi Grand Prix,VER,Red Bull Racing,1,27.5,23.4,0,1,MEDIUM
+2020,17,Abu Dhabi Grand Prix,NOR,McLaren,4,27.5,23.4,0,0,SOFT
+2020,17,Abu Dhabi Grand Prix,HAM,Mercedes,3,27.5,23.4,0,1,MEDIUM
+2020,17,Abu Dhabi Grand Prix,VET,Ferrari,13,27.5,23.4,0,2,HARD
+2020,17,Abu Dhabi Grand Prix,FIT,Haas F1 Team,17,27.5,23.4,0,1,MEDIUM
+2020,17,Abu Dhabi Grand Prix,SAI,McLaren,6,27.5,23.4,0,1,MEDIUM
+2020,17,Abu Dhabi Grand Prix,LAT,Williams,18,27.5,23.4,0,1,MEDIUM
+2020,17,Abu Dhabi Grand Prix,RUS,Williams,16,27.5,23.4,0,1,MEDIUM
+2020,17,Abu Dhabi Grand Prix,RAI,Alfa Romeo Racing,15,27.5,23.4,0,1,MEDIUM
+2020,17,Abu Dhabi Grand Prix,BOT,Mercedes,2,27.5,23.4,0,1,MEDIUM
+2020,17,Abu Dhabi Grand Prix,GIO,Alfa Romeo Racing,14,27.5,23.4,0,1,MEDIUM
+2021,1,Bahrain Grand Prix,HAM,Mercedes,2,27.6,20.5,0,1,MEDIUM
+2021,1,Bahrain Grand Prix,VER,Red Bull Racing,1,27.6,20.5,0,1,MEDIUM
+2021,1,Bahrain Grand Prix,BOT,Mercedes,3,27.6,20.5,0,1,MEDIUM
+2021,1,Bahrain Grand Prix,NOR,McLaren,7,27.6,20.5,0,0,SOFT
+2021,1,Bahrain Grand Prix,PER,Red Bull Racing,1,27.6,20.5,0,1,MEDIUM
+2021,1,Bahrain Grand Prix,LEC,Ferrari,4,27.6,20.5,0,0,SOFT
+2021,1,Bahrain Grand Prix,RIC,McLaren,6,27.6,20.5,0,0,SOFT
+2021,1,Bahrain Grand Prix,SAI,Ferrari,8,27.6,20.5,0,0,SOFT
+2021,1,Bahrain Grand Prix,TSU,AlphaTauri,13,27.6,20.5,0,1,MEDIUM
+2021,1,Bahrain Grand Prix,STR,Aston Martin,10,27.6,20.5,0,0,SOFT
+2021,1,Bahrain Grand Prix,RAI,Alfa Romeo Racing,14,27.6,20.5,0,1,MEDIUM
+2021,1,Bahrain Grand Prix,GIO,Alfa Romeo Racing,12,27.6,20.5,0,1,MEDIUM
+2021,1,Bahrain Grand Prix,OCO,Alpine,16,27.6,20.5,0,0,SOFT
+2021,1,Bahrain Grand Prix,RUS,Williams,15,27.6,20.5,0,0,SOFT
+2021,1,Bahrain Grand Prix,VET,Aston Martin,20,27.6,20.5,0,1,MEDIUM
+2021,1,Bahrain Grand Prix,MSC,Haas F1 Team,18,27.6,20.5,0,1,MEDIUM
+2021,1,Bahrain Grand Prix,GAS,AlphaTauri,5,27.6,20.5,0,1,MEDIUM
+2021,1,Bahrain Grand Prix,LAT,Williams,17,27.6,20.5,0,0,SOFT
+2021,1,Bahrain Grand Prix,ALO,Alpine,9,27.6,20.5,0,0,SOFT
+2021,1,Bahrain Grand Prix,MAZ,Haas F1 Team,19,27.6,20.5,0,1,MEDIUM
+2021,3,Portuguese Grand Prix,GAS,AlphaTauri,9,39.4,19.5,0,0,SOFT
+2021,3,Portuguese Grand Prix,PER,Red Bull Racing,4,39.4,19.5,0,1,MEDIUM
+2021,3,Portuguese Grand Prix,ALO,Alpine,13,39.4,19.5,0,1,MEDIUM
+2021,3,Portuguese Grand Prix,LEC,Ferrari,8,39.4,19.5,0,1,MEDIUM
+2021,3,Portuguese Grand Prix,STR,Aston Martin,17,39.4,19.5,0,0,SOFT
+2021,3,Portuguese Grand Prix,TSU,AlphaTauri,14,39.4,19.5,0,1,MEDIUM
+2021,3,Portuguese Grand Prix,RIC,McLaren,16,39.4,19.5,0,1,MEDIUM
+2021,3,Portuguese Grand Prix,OCO,Alpine,6,39.4,19.5,0,0,SOFT
+2021,3,Portuguese Grand Prix,VER,Red Bull Racing,3,39.4,19.5,0,1,MEDIUM
+2021,3,Portuguese Grand Prix,NOR,McLaren,7,39.4,19.5,0,0,SOFT
+2021,3,Portuguese Grand Prix,HAM,Mercedes,2,39.4,19.5,0,1,MEDIUM
+2021,3,Portuguese Grand Prix,MSC,Haas F1 Team,19,39.4,19.5,0,1,MEDIUM
+2021,3,Portuguese Grand Prix,VET,Aston Martin,10,39.4,19.5,0,0,SOFT
+2021,3,Portuguese Grand Prix,SAI,Ferrari,5,39.4,19.5,0,0,SOFT
+2021,3,Portuguese Grand Prix,LAT,Williams,18,39.4,19.5,0,1,MEDIUM
+2021,3,Portuguese Grand Prix,RUS,Williams,11,39.4,19.5,0,1,MEDIUM
+2021,3,Portuguese Grand Prix,RAI,Alfa Romeo Racing,15,39.4,19.5,0,0,SOFT
+2021,3,Portuguese Grand Prix,BOT,Mercedes,1,39.4,19.5,0,1,MEDIUM
+2021,3,Portuguese Grand Prix,MAZ,Haas F1 Team,20,39.4,19.5,0,1,MEDIUM
+2021,3,Portuguese Grand Prix,GIO,Alfa Romeo Racing,12,39.4,19.5,0,1,MEDIUM
+2021,4,Spanish Grand Prix,GAS,AlphaTauri,12,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,PER,Red Bull Racing,8,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,ALO,Alpine,10,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,LEC,Ferrari,4,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,STR,Aston Martin,11,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,TSU,AlphaTauri,16,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,RIC,McLaren,7,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,OCO,Alpine,5,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,VER,Red Bull Racing,2,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,NOR,McLaren,9,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,HAM,Mercedes,1,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,MSC,Haas F1 Team,18,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,VET,Aston Martin,13,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,SAI,Ferrari,6,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,LAT,Williams,19,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,RUS,Williams,15,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,RAI,Alfa Romeo Racing,17,32.7,22.3,0,1,MEDIUM
+2021,4,Spanish Grand Prix,BOT,Mercedes,3,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,MAZ,Haas F1 Team,20,32.7,22.3,0,0,SOFT
+2021,4,Spanish Grand Prix,GIO,Alfa Romeo Racing,14,32.7,22.3,0,0,SOFT
+2021,5,Monaco Grand Prix,VER,Red Bull Racing,2,36.7,20.7,0,0,SOFT
+2021,5,Monaco Grand Prix,SAI,Ferrari,4,36.7,20.7,0,0,SOFT
+2021,5,Monaco Grand Prix,NOR,McLaren,5,36.7,20.7,0,0,SOFT
+2021,5,Monaco Grand Prix,PER,Red Bull Racing,9,36.7,20.7,0,0,SOFT
+2021,5,Monaco Grand Prix,VET,Aston Martin,8,36.7,20.7,0,0,SOFT
+2021,5,Monaco Grand Prix,GAS,AlphaTauri,6,36.7,20.7,0,0,SOFT
+2021,5,Monaco Grand Prix,HAM,Mercedes,7,36.7,20.7,0,0,SOFT
+2021,5,Monaco Grand Prix,STR,Aston Martin,13,36.7,20.7,0,2,HARD
+2021,5,Monaco Grand Prix,OCO,Alpine,11,36.7,20.7,0,0,SOFT
+2021,5,Monaco Grand Prix,GIO,Alfa Romeo Racing,10,36.7,20.7,0,0,SOFT
+2021,5,Monaco Grand Prix,RAI,Alfa Romeo Racing,14,36.7,20.7,0,1,MEDIUM
+2021,5,Monaco Grand Prix,RIC,McLaren,12,36.7,20.7,0,1,MEDIUM
+2021,5,Monaco Grand Prix,ALO,Alpine,17,36.7,20.7,0,1,MEDIUM
+2021,5,Monaco Grand Prix,RUS,Williams,15,36.7,20.7,0,1,MEDIUM
+2021,5,Monaco Grand Prix,LAT,Williams,18,36.7,20.7,0,1,MEDIUM
+2021,5,Monaco Grand Prix,TSU,AlphaTauri,16,36.7,20.7,0,2,HARD
+2021,5,Monaco Grand Prix,MAZ,Haas F1 Team,19,36.7,20.7,0,0,SOFT
+2021,5,Monaco Grand Prix,MSC,Haas F1 Team,20,36.7,20.7,0,0,SOFT
+2021,5,Monaco Grand Prix,BOT,Mercedes,3,36.7,20.7,0,0,SOFT
+2021,5,Monaco Grand Prix,LEC,Ferrari,1,36.7,20.7,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,GAS,AlphaTauri,4,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,PER,Red Bull Racing,6,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,ALO,Alpine,8,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,LEC,Ferrari,1,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,STR,Aston Martin,19,38.2,24.3,0,2,HARD
+2021,6,Azerbaijan Grand Prix,TSU,AlphaTauri,7,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,RIC,McLaren,13,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,OCO,Alpine,12,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,VER,Red Bull Racing,3,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,NOR,McLaren,9,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,HAM,Mercedes,2,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,MSC,Haas F1 Team,17,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,VET,Aston Martin,11,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,SAI,Ferrari,5,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,LAT,Williams,16,38.2,24.3,0,1,MEDIUM
+2021,6,Azerbaijan Grand Prix,RUS,Williams,15,38.2,24.3,0,1,MEDIUM
+2021,6,Azerbaijan Grand Prix,RAI,Alfa Romeo Racing,14,38.2,24.3,0,1,MEDIUM
+2021,6,Azerbaijan Grand Prix,BOT,Mercedes,10,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,MAZ,Haas F1 Team,18,38.2,24.3,0,0,SOFT
+2021,6,Azerbaijan Grand Prix,GIO,Alfa Romeo Racing,20,38.2,24.3,0,0,SOFT
+2021,7,French Grand Prix,VER,Red Bull Racing,1,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,HAM,Mercedes,2,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,PER,Red Bull Racing,4,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,BOT,Mercedes,3,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,NOR,McLaren,8,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,RIC,McLaren,10,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,GAS,AlphaTauri,6,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,ALO,Alpine,9,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,VET,Aston Martin,12,35.0,25.2,0,2,HARD
+2021,7,French Grand Prix,STR,Aston Martin,19,35.0,25.2,0,2,HARD
+2021,7,French Grand Prix,SAI,Ferrari,5,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,RUS,Williams,14,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,TSU,AlphaTauri,1,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,OCO,Alpine,11,35.0,25.2,0,2,HARD
+2021,7,French Grand Prix,GIO,Alfa Romeo Racing,13,35.0,25.2,0,2,HARD
+2021,7,French Grand Prix,LEC,Ferrari,7,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,RAI,Alfa Romeo Racing,17,35.0,25.2,0,2,HARD
+2021,7,French Grand Prix,LAT,Williams,16,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,MSC,Haas F1 Team,15,35.0,25.2,0,1,MEDIUM
+2021,7,French Grand Prix,MAZ,Haas F1 Team,18,35.0,25.2,0,2,HARD
+2021,8,Styrian Grand Prix,VER,Red Bull Racing,1,53.1,26.7,0,1,MEDIUM
+2021,8,Styrian Grand Prix,HAM,Mercedes,2,53.1,26.7,0,1,MEDIUM
+2021,8,Styrian Grand Prix,BOT,Mercedes,5,53.1,26.7,0,1,MEDIUM
+2021,8,Styrian Grand Prix,PER,Red Bull Racing,4,53.1,26.7,0,0,SOFT
+2021,8,Styrian Grand Prix,NOR,McLaren,3,53.1,26.7,0,0,SOFT
+2021,8,Styrian Grand Prix,SAI,Ferrari,12,53.1,26.7,0,1,MEDIUM
+2021,8,Styrian Grand Prix,LEC,Ferrari,7,53.1,26.7,0,0,SOFT
+2021,8,Styrian Grand Prix,STR,Aston Martin,9,53.1,26.7,0,0,SOFT
+2021,8,Styrian Grand Prix,ALO,Alpine,8,53.1,26.7,0,0,SOFT
+2021,8,Styrian Grand Prix,TSU,AlphaTauri,11,53.1,26.7,0,0,SOFT
+2021,8,Styrian Grand Prix,RAI,Alfa Romeo Racing,18,53.1,26.7,0,2,HARD
+2021,8,Styrian Grand Prix,VET,Aston Martin,14,53.1,26.7,0,1,MEDIUM
+2021,8,Styrian Grand Prix,RIC,McLaren,13,53.1,26.7,0,1,MEDIUM
+2021,8,Styrian Grand Prix,OCO,Alpine,17,53.1,26.7,0,1,MEDIUM
+2021,8,Styrian Grand Prix,GIO,Alfa Romeo Racing,15,53.1,26.7,0,1,MEDIUM
+2021,8,Styrian Grand Prix,MSC,Haas F1 Team,19,53.1,26.7,0,1,MEDIUM
+2021,8,Styrian Grand Prix,LAT,Williams,16,53.1,26.7,0,1,MEDIUM
+2021,8,Styrian Grand Prix,MAZ,Haas F1 Team,20,53.1,26.7,0,1,MEDIUM
+2021,8,Styrian Grand Prix,RUS,Williams,10,53.1,26.7,0,1,MEDIUM
+2021,8,Styrian Grand Prix,GAS,AlphaTauri,6,53.1,26.7,0,0,SOFT

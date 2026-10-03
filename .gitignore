@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# FastF1 Telemetry Cache (5+ GB)
+data/fastf1_cache/
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archives
+*.zip
+*.tar.gz
+
+# Environments & IDEs
+.env
+.venv
+env/
+venv/
+ENV/
+.idea/
+.vscode/
