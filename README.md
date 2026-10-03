@@ -11,20 +11,21 @@
 
 ## 📋 Table of Contents
 
-- [Executive Overview](#-executive-overview)
-- [Motorsport Domain Problem](#-motorsport-domain-problem)
-- [Input Features & Strategy Engineering](#-input-features--strategy-engineering)
-- [Benchmark Results](#-benchmark-results)
-- [Visual Strategy Artifacts](#-visual-strategy-artifacts)
-- [Explainability & Strategy Tree](#-explainability--strategy-tree)
-- [Project Structure](#-project-structure)
-- [How to Run](#-how-to-run)
-- [Python API Usage](#-python-api-usage)
-- [Tech Stack](#-tech-stack)
+- [Executive Overview](#executive-overview)
+- [Motorsport Domain Problem](#motorsport-domain-problem)
+- [Input Features & Strategy Engineering](#input-features--strategy-engineering)
+- [Benchmark Results](#benchmark-results)
+- [Visual Strategy Artifacts](#visual-strategy-artifacts)
+- [Explainability & Strategy Tree](#explainability--strategy-tree)
+- [Project Structure](#project-structure)
+- [How to Run](#how-to-run)
+- [Python API Usage](#python-api-usage)
+- [Tech Stack](#tech-stack)
 
 ---
 
-## 🔍 Executive Overview
+## Executive Overview
+
 
 In Formula 1 Grand Prix racing, the **starting tyre compound selection** is one of the highest-leverage strategic calls made before lights out. The starting compound dictates:
 
@@ -48,7 +49,7 @@ In Formula 1 Grand Prix racing, the **starting tyre compound selection** is one 
 
 ---
 
-## 🧠 Input Features & Strategy Engineering
+## Input Features & Strategy Engineering
 
 Standard raw telemetry alone misses key motorsport dynamics. **F1-Stratify** engineers specialized features grounded in F1 technical regulations and thermodynamics:
 
@@ -97,7 +98,7 @@ Track temperature metrics and grid position variables account for **~85% of tota
 
 ---
 
-## 🖼️ Visual Strategy Artifacts
+## Visual Strategy Artifacts
 
 | Feature Importance Ranking | Confusion Matrix |
 |:---:|:---:|
@@ -160,7 +161,8 @@ F1Start-AI/
 
 ---
 
-## 🚀 How to Run
+## How to Run
+
 
 ### 1. Install Dependencies
 
